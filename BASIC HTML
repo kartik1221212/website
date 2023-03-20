@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>E-Learning Website</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>E-Learning Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Courses</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Welcome to our E-Learning Website</h2>
+			<p>Our website offers a wide range of courses to help you learn new skills and advance your career.</p>
+			<a href="#">Get started</a>
+		</section>
+		<section>
+			<h2>Our Courses</h2>
+			<ul>
+				<li><a href="#">HTML and CSS</a></li>
+				<li><a href="#">JavaScript</a></li>
+				<li><a href="#">Python</a></li>
+				<li><a href="#">Data Science</a></li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 E-Learning Website</p>
+	</footer>
+</body>
+</html>
